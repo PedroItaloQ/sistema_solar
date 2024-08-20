@@ -12,16 +12,11 @@
 .venus,
 .marte,
 .jupiter,
-.saturno
+.saturno,
 .urano,
 .netuno {
     display: flex;
     align-items: center;
     justify-content: center;
-    cursor: pointer;
-}
-
-.saturno
-.urano {
     cursor: pointer;
 }
